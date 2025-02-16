@@ -1,4 +1,4 @@
-public class public class VariablesAndCaseSensitivity {
+public class  VariablesAndCaseSensitivity {
  {
     public static void main(String[] args) {
       
