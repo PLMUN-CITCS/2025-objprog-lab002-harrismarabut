@@ -5,7 +5,7 @@ public class VariablesAndCaseSensitivity {
 
         double itemPrice = 29.99;
 
-        String studentName = "Harris";
+        String studentName = "Alice";
 
         int counter = 10;
         int upperCounter = 20; 
