@@ -1,19 +1,18 @@
-public class VariablesAndCaseSensitivity {
+public class public class VariablesAndCaseSensitivity {
+ {
     public static void main(String[] args) {
       
         int studentAge = 15;
-
         double itemPrice = 29.99;
-
-        String studentName = "Alice";
+        String studentName = "Alice"; // Changed from "Harris" to "Alice"
 
         int counter = 10;
-        int upperCounter = 20; 
+        int Counter = 20; // Kept it as-is, but consider renaming for clarity
 
         System.out.println("Student Age: " + studentAge);
         System.out.println("Item Price: $" + itemPrice);
         System.out.println("Student Name: " + studentName);
         System.out.println("Counter: " + counter);
-        System.out.println("Upper Counter: " + upperCounter);
+        System.out.println("Counter (Different Case): " + Counter);
     }
 }
